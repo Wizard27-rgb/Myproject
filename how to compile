@@ -1,0 +1,14 @@
+▶️ How to Compile (Windows + MinGW)
+
+Open CMD inside the folder and run:
+
+g++ main.cpp -o passvault
+
+
+Then run:
+
+passvault.exe
+
+  ▶️ How to Compile (Linux / MacOS)
+g++ main.cpp -o passvault
+./passvault
